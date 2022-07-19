@@ -4,27 +4,27 @@ REPOSITÓRIO DE ENTREGA DE PROJETO SOBRE GIT/GIT HUB DA DIO.
 
 - **NÃO ESQUECER** 
 
-_Roupas leves -[X]
+_Roupas leves -[X]_
 
-Chinelo -[ ]
+_Chinelo -[ ]_
 
-Protetor solar -[X]
+_Protetor solar -[X]_
 
-Pós-sol-[]
+_Pós-sol-[]_
 
-Trajes de banho -[ ]
+_Trajes de banho -[ ]_
 
-Óculos de sol -[X]
+_Óculos de sol -[X]_
 
-Bolsa para paraia/acessórios -[ ]
+_Bolsa para paraia/acessórios -[ ]_
 
-Cooler -[ ]
+_Cooler -[ ]_
 
-Chapéu/Boné -[ ]
+_Chapéu/Boné -[ ]_
 
-Água_-[X]
-
-
+_Água_-[X]_
 
 
-**Caso lembre de algo, adicione à lista. **
+
+
+**Caso lembre de algo, adicione à lista.**
